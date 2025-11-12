@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TaxiFarePrediction/TaxiFarePrediction.csproj" />
+  <Project Path="TaxiFare_API/TaxiFare_API.csproj" />
+  <Project Path="TaxiFare_Console/TaxiFare_Console.csproj" />
+</Solution>
